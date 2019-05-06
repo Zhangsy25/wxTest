@@ -1,0 +1,9 @@
+/* components/swiper/swiper.wxss */
+.swiper1{
+  width: 500rpx;
+  padding: 0rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ccc;
+}
