@@ -1,6 +1,8 @@
 <!--index.wxml-->
-
+<Topmenu>
+</Topmenu>
 <view class="container">
+
   <Swiper>
   </Swiper>
   <navigator url="../lyb/lyb" hover-class="navigator-hover">
